@@ -1,23 +1,12 @@
-Requirement Analysis is a critical phase in the Software Development Life Cycle (SDLC) where the needs and expectations of stakeholders are gathered, examined, and documented to create a clear understanding of what the software system should achieve.
+What is Requirement Analysis?
+Requirement Analysis is the process of gathering, understanding, and documenting what a software system must do. It ensures that all stakeholders have a shared understanding of system expectations. This phase involves identifying both functional and non-functional requirements and is essential for guiding design, development, and reducing risks in the software development lifecycle (SDLC).
+📌 Why is Requirement Analysis Important?
+Requirement Analysis plays a vital role in the success of any software project. Here are three key reasons why it's critical in the SDLC:
+Prevents Miscommunication
+It ensures that all stakeholders—developers, clients, and users—have a clear and unified understanding of what the system should do. This avoids costly misunderstandings later.
 
-This process involves engaging with clients, end-users, and other stakeholders to identify both functional requirements (what the system should do) and non-functional requirements (how the system should perform). The outcome of this phase serves as the foundation for planning, designing, and developing the software product.
+Reduces Development Costs and Time
+By identifying requirements early, development teams avoid unnecessary rework, helping to stay on budget and deliver on time.
 
-Key Activities in Requirement Analysis:
-Requirements Elicitation: Gathering requirements through interviews, questionnaires, workshops, or observing user behavior.
-
-Requirements Specification: Documenting the collected requirements in a clear and structured format, often in a Software Requirements Specification (SRS) document.
-
-Requirements Validation: Ensuring that the documented requirements accurately reflect stakeholders’ needs and are feasible, complete, and unambiguous.
-
-Requirements Management: Continuously tracking and managing changes to requirements throughout the project lifecycle.
-
-Importance of Requirement Analysis:
-📌 Reduces Risk: Identifying issues early prevents costly changes later in development.
-
-🧭 Guides Design and Development: Clear requirements help developers build the right product from the beginning.
-
-🤝 Improves Communication: Creates a common understanding among stakeholders, designers, and developers.
-
-✅ Ensures Project Success: Increases the chances of delivering a product that meets business goals and user needs.
-
-In summary, Requirement Analysis acts as the blueprint for software development. Without it, teams risk building the wrong solution, leading to wasted time, budget overruns, and unsatisfied users.
+Improves Product Quality
+A well-analyzed set of requirements leads to a system that meets user needs and expectations, resulting in a more functional, reliable, and user-friendly product.
